@@ -10,7 +10,7 @@ Frameworks) practicals.
 | 1 | Intro to React & Component Architecture | ✅ Done | 4+ reusable components (Header, About, Skills, Footer, NavBar), props-driven |
 | 2 | State Management & Routing | ✅ Done | React Router (`/`, `/projects`, `/contact`, 404), 2+ `useState` variables, controlled form |
 | 3 | API Integration & Data Rendering | ✅ Done | Live GitHub REST API on `/projects` with loading/error states, retry, and search filter |
-| 4 | RESTful API with Node.js & Express | 🚧 In progress | Scaffolded separately in `task-manager-api/` — not yet wired to the frontend |
+| 4 | RESTful API with Node.js & Express | ✅ Done | Full CRUD + middleware pipeline in `task-manager-api/` — [repo](https://github.com/OMJOSHI15/task-manager-api) |
 
 ## Routes (Practical 2)
 
