@@ -11,6 +11,7 @@ Frameworks) practicals.
 | 2 | State Management & Routing | ✅ Done | React Router (`/`, `/projects`, `/contact`, 404), 2+ `useState` variables, controlled form |
 | 3 | API Integration & Data Rendering | ✅ Done | Live GitHub REST API on `/projects` with loading/error states, retry, and search filter |
 | 4 | RESTful API with Node.js & Express | ✅ Done | Full CRUD + middleware pipeline in `task-manager-api/` — [repo](https://github.com/OMJOSHI15/task-manager-api) |
+| 5 | MongoDB Integration & Schema Design with Mongoose | ✅ Done | `task-manager-api/` now persists to MongoDB via a validated Mongoose schema (see its README for setup) |
 
 ## Routes (Practical 2)
 
