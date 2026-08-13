@@ -12,6 +12,7 @@ Frameworks) practicals.
 | 3 | API Integration & Data Rendering | ✅ Done | Live GitHub REST API on `/projects` with loading/error states, retry, and search filter |
 | 4 | RESTful API with Node.js & Express | ✅ Done | Full CRUD + middleware pipeline in `task-manager-api/` — [repo](https://github.com/OMJOSHI15/task-manager-api) |
 | 5 | MongoDB Integration & Schema Design with Mongoose | ✅ Done | `task-manager-api/` now persists to MongoDB via a validated Mongoose schema (see its README for setup) |
+| 6 | Full Stack Integration (React + Node + MongoDB) | ✅ Done | `task-manager-ui/` — full CRUD dashboard talking to `task-manager-api` over CORS (see its README to run both) |
 
 ## Routes (Practical 2)
 

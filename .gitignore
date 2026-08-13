@@ -15,6 +15,7 @@ dist-ssr
 # Separate side-project repos/scaffolds — not part of this practical's deliverable
 /spiderman-portfolio/
 /task-manager-api/
+/task-manager-ui/
 
 # Editor directories and files
 .vscode/*
