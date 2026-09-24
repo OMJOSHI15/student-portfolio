@@ -13,6 +13,8 @@ Frameworks) practicals.
 | 4 | RESTful API with Node.js & Express | ✅ Done | Full CRUD + middleware pipeline in `task-manager-api/` — [repo](https://github.com/OMJOSHI15/task-manager-api) |
 | 5 | MongoDB Integration & Schema Design with Mongoose | ✅ Done | `task-manager-api/` now persists to MongoDB via a validated Mongoose schema (see its README for setup) |
 | 6 | Full Stack Integration (React + Node + MongoDB) | ✅ Done | `task-manager-ui/` — full CRUD dashboard talking to `task-manager-api` over CORS (see its README to run both) |
+| 7 | Authentication & Authorization | ✅ Done | JWT auth (register/login/me) + bcrypt hashing + auth middleware in `task-manager-api/`; login/register UI + token storage + route gating in `task-manager-ui/` and `spiderman-portfolio/` |
+| 8 | Performance Optimization (Code Splitting) | ✅ Done | `spiderman-portfolio/` — `React.lazy` + `Suspense` on `/projects`, `/tasks`, `/contact` routes; main bundle cut ~4.9% |
 
 ## Routes (Practical 2)
 
